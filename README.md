@@ -1,13 +1,17 @@
-### Hi there 👋
+# *Hello, I'm Ramesh Kanuri*
+*I ❤️ Fullstack Development!*
 
-Here are some ideas to get you started:
+*I ❤️ Learning creative tech-stack tools*
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*1 year internship😉 Experience*
 
+*currently searching for a job🔎*
+
+## *My Tech-Stack*
+
+- **CORE JAVA**
+- **SQL**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
+- **REACT JS**
