@@ -15,4 +15,4 @@
 - **CSS**
 - **JAVASCRIPT**
 - **REACT JS**
-- **Spring Boot**
+- **SPRING BOOT**
